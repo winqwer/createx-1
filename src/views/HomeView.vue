@@ -309,7 +309,7 @@ export default {
   .svg {
     fill: #fff;
   }
-}
+}     
 
 
 

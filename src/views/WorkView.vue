@@ -179,6 +179,7 @@ export default {
 </template>
   
 <style>
+
 .maintext {
     position: relative;
     left: 50px;

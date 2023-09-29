@@ -124,7 +124,7 @@
               December 1, 2019 <span>|</span>
               <img src="src/img/portfolio-card/article/Chat.png" alt=""> No comments
             </p>
-          </div>
+          </div>   
 
 
           <p>Maecenas donec lacinia nunc, quam sit magnis mauris. Neque bibendum et <br> mauris, aenean. Vel arcu amet in

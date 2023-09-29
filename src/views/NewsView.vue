@@ -132,11 +132,34 @@
         </div>
       </div>
     </div>
-    <div></div>
+    <div class="page"><a href="">1</a><a href="">2</a><a href="">3</a><a href="">4</a><img src="src/img/Right.png" alt=""></div>
   </div>
 </template>
   
 <style>
+.page {
+  display: flex;
+  gap: 20px;
+}
+.page a:active:visited{
+  color: var(--primary, #FF5A30);
+/* base/bold */
+font-family: Ubuntu;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 160%; /* 25.6px */
+}
+.page a {
+  color: var(--gray-800, #424551);
+/* base/bold */
+font-family: Ubuntu;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 160%; /* 25.6px */
+text-decoration: none;
+}
 .new-img-text p:nth-child(3) {
   color: var(--gray-800, #424551);
 
